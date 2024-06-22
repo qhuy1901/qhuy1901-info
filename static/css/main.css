@@ -1,0 +1,37 @@
+header {
+    box-shadow: 0 4px 6px -6px #222;
+}
+
+nav .navbar-brand {
+    display: flex;
+}
+
+nav .navbar-brand-logo {
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    height: 35px;
+    width: 35px;
+    padding: 1px 0;
+    border-radius: 50%;
+}
+
+nav .navbar-brand-text {
+    font-size: 22px;
+    padding: 1px 0;
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+.red-background {
+    background-color: #FF595A;
+}
+
+.red-text {
+    color: #FF595A;
+}
+
+#navbarNav {
+    margin-left: 40px;
+    font-weight: bold;
+}
